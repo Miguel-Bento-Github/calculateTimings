@@ -1,0 +1,64 @@
+{
+  "episode": {
+    "on_air_time": 1712235600,
+    "off_air_time": 1712238300
+  },
+  "part": {
+    "14080af8-7712-47be-8802-22a0fb83cf59": {
+      "estimated_duration": 600000,
+      "front_time": null,
+      "end_time": null,
+      "back_time": null
+    },
+    "cb17be19-85ff-4368-8fa3-cbf281c902d8": {
+      "estimated_duration": 1500000,
+      "front_time": null,
+      "end_time": null,
+      "back_time": null
+    },
+    "a6cbf456-095e-4393-b79b-fd397d464bf3": {
+      "estimated_duration": 600000,
+      "front_time": null,
+      "end_time": null,
+      "back_time": null
+    }
+  },
+  "item": {
+    "872c3197-7c8c-4029-a4ff-f76ba944074b": {
+      "estimated_duration": 300000,
+      "front_time": null,
+      "end_time": null,
+      "back_time": null
+    },
+    "2159c445-e6ee-4109-9829-f47dc89b9372": {
+      "estimated_duration": 300000,
+      "front_time": null,
+      "end_time": null,
+      "back_time": null
+    },
+    "325371fc-cd1d-44d8-9527-d645b14066c4": {
+      "estimated_duration": 600000,
+      "front_time": null,
+      "end_time": null,
+      "back_time": null
+    },
+    "c7155479-00be-497f-abb8-f6a0f713a000": {
+      "estimated_duration": 300000,
+      "front_time": null,
+      "end_time": null,
+      "back_time": null
+    },
+    "501e36a2-9a7b-4c12-b43f-89738ddb9644": {
+      "estimated_duration": 600000,
+      "front_time": null,
+      "end_time": null,
+      "back_time": null
+    },
+    "1b165733-a0f1-45a0-a814-4f80a95ec896": {
+      "estimated_duration": 600000,
+      "front_time": null,
+      "end_time": null,
+      "back_time": null
+    }
+  }
+}
